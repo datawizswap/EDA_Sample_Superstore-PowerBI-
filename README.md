@@ -1,8 +1,9 @@
 
-### Exploratory Data Analysis (EDA) of Sample Superstore Data in Power BI
+# Exploratory Data Analysis (EDA) of Sample Superstore Data in Power BI
+
 ## Introduction: This repository contains an EDA project on the Sample Superstore dataset, visualized using Power BI. The analysis aims to uncover insights into sales and profit distributions across various segments, regions, and categories.
 
-# Visualizations
+## Visualizations
 1. Donut Chart: Sum of Sales by Region
 Purpose: This chart provides a visual representation of the total sales distribution across different regions. The donut chart format allows for an easy comparison of each region's contribution to total sales.
 2. Donut Chart: Sum of Sales by Segment
@@ -21,6 +22,6 @@ Purpose: The map visualization presents geographical insights, displaying sales 
 Purpose: The slicer tool allows for interactive filtering of data based on regions, enabling viewers to focus on specific areas.
 9. Cards: Total Sales, Quantity, Total Profit, and Total Discount
 
-Purpose: These cards provide key metrics at a glance, offering a quick overview of the overall performance in terms of sales, quantity sold, profits, and discounts given.
+### Purpose: These cards provide key metrics at a glance, offering a quick overview of the overall performance in terms of sales, quantity sold, profits, and discounts given.
 
-# Conclusion: This Power BI report offers comprehensive insights into the Sample Superstore's business performance, helping stakeholders make informed decisions. The visualizations are designed to be interactive and user-friendly, providing a deep dive into various aspects of the business.
+## Conclusion: This Power BI report offers comprehensive insights into the Sample Superstore's business performance, helping stakeholders make informed decisions. The visualizations are designed to be interactive and user-friendly, providing a deep dive into various aspects of the business.
